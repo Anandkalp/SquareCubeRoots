@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class square
+public class square
 {
 	public static void main(String[] args) 
 	{
@@ -13,4 +13,5 @@ class square
 	}
 
 }
+
 

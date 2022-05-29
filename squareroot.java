@@ -1,6 +1,5 @@
-
 import java.util.Scanner;
-class squareroot
+public class squareroot
 {
 	public static void main(String[] args) 
 	{
